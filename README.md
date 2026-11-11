@@ -10,8 +10,8 @@
 
 到 [Releases](https://github.com/xiaoyizpast/counselor-workbench-releases/releases/latest) 下载：
 
-- `辅导员工作台-Setup-x.y.z.exe`：安装版，自带 .NET 运行时；
-- `辅导员工作台-x.y.z-便携版.zip`：免安装版（可选）。
+- `CounselorWorkbench-Setup-x.y.z.exe`：安装版，自带 .NET 运行时；
+- `CounselorWorkbench-x.y.z-Portable.zip`：免安装版（可选）。
 
 安装版默认按当前 Windows 用户安装，不需要管理员权限；安装包未签名，SmartScreen 提示“未知发布者”时选择“更多信息 → 仍要运行”。
 
